@@ -1,0 +1,6 @@
+.user-posts-container {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    overflow-y:scroll;
+}
